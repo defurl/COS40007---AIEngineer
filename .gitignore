@@ -1,0 +1,12 @@
+# Python environment files
+venv/
+.env/
+__pycache__/
+cos40007-env/
+
+# Compiled files
+*.pyc
+
+# Distribution and build files
+dist/
+build/
