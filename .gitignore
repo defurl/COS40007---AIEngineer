@@ -3,6 +3,7 @@ venv/
 .env/
 __pycache__/
 cos40007-env/
+.ipynb_checkpoints
 
 # Compiled files
 *.pyc
